@@ -276,8 +276,6 @@ Webhooks haven't been implemented yet :( It will be soon though!
 
 ## Why
 
-Comparison to existing gem.
-
 Q. Why aren't there tests?
 A. Tests are in progress. Unfortunately, there is no test environment for Strava, and virtually everything is based on hitting their API.
 
