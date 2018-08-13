@@ -38,7 +38,7 @@ This is not necessary, as only the webhooks API requires application information
 
 ```ruby
 Strava.client_id = ENV['STRAVA_CLIENT_ID']
-Strava.secret = ENV['STRAVA_CLIENT_SECRET']
+Strava.client_secret = ENV['STRAVA_CLIENT_SECRET']
 ```
 
 ### Current Athlete
